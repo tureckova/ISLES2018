@@ -5,7 +5,7 @@ The code was written to be trained using the ISLES2018 data set for brain lesion
 
 For more information about models and trining please refer to paper: The code was written to be trained using the BRATS data set for brain tumors, but it can be easily modified to be used in other 3D applications.
 
-Short code files explanation:
+### Short code files explanation:
 
 correct_bias.py
 - data preparation
